@@ -10,7 +10,6 @@
 - Team role: primarily responsible for ORM, maintainer of beego samples and official site.
 - Social network: [Sina Weibo](http://weibo.com/slene) [GitHub](https://github.com/slene) [Twitter](https://twitter.com/slene)
 
-
 ### ClownFish
 
 - Team role: primarily responsible for beego admin management system.
@@ -20,3 +19,8 @@
 
 - Team role: Main maintainer for the English Docs and resources.
 - Social network: [GitHub](https://github.com/lei-cao)
+
+### HellsHamsters Team
+
+- Team role: main mainteiner for the Russian Docs
+- Social network: [Github](https://github.com/HellsHamsters) [VKontakte](https://vk.com/hellshamsters)
