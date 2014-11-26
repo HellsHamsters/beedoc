@@ -3,7 +3,7 @@ name: Toolbox Module
 sort: 6
 ---
 
-# Основной модуль ToolBox
+# Модуль ToolBox
 
 Этот модуль похож на [Dropwizard framework](https://github.com/dropwizard/dropwizard). Один из пользователей рассказал мне об этом фреймворке и он действительно крутой. [issue 128](https://github.com/astaxie/beego/issues/128) рассказывает об этой фиче. Я добавил много различных возможностей: healthcheck, profile, statistics и task.
 
